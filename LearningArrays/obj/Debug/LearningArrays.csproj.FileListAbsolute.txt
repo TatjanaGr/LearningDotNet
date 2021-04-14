@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\TUTA\Paskaitos\06 Source Control + Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\User\Desktop\TUTA\Paskaitos\06 Source Control + Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\User\Desktop\TUTA\Paskaitos\06 Source Control + Programming\LearningDotNet\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\User\Desktop\TUTA\Paskaitos\06 Source Control + Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TUTA\Paskaitos\06 Source Control + Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TUTA\Paskaitos\06 Source Control + Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\User\Desktop\TUTA\Paskaitos\06 Source Control + Programming\LearningDotNet\LearningArrays\obj\Debug\LearningArrays.pdb
